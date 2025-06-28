@@ -1,0 +1,4 @@
+streamlit
+rdkit-pypi
+openbabel
+pandas
