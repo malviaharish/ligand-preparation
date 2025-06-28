@@ -2,3 +2,4 @@ streamlit
 rdkit-pypi
 openbabel
 pandas
+numpy
