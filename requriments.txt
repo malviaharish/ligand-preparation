@@ -1,5 +1,5 @@
 streamlit
-rdkit-pypi
 openbabel
 pandas
 numpy
+rdkit-pypi==2023.3.1
