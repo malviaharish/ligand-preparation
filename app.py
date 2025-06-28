@@ -1,4 +1,3 @@
-pip install rdkit-pypi
 import streamlit as st
 from rdkit import Chem
 from rdkit.Chem import AllChem, Draw, Descriptors
